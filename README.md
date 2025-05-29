@@ -12,6 +12,7 @@
   </a>
   <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> 
   <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker"> 
+  <img src="https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=Javascript">
   
 </p> 
 
@@ -20,14 +21,15 @@
   <img src="https://img.shields.io/badge/-Terraform-000000?style=for-the-badge&logo=Terraform"> 
   <img src="https://img.shields.io/badge/-Ansible-000000?style=for-the-badge&logo=Ansible">
   <img src="https://img.shields.io/badge/-Wireguard-000000?style=for-the-badge&logo=Wireguard"> 
+   <img src="https://img.shields.io/badge/-Cloudflare-000000?style=for-the-badge&logo=Cloudflare">
 </p>
 
 <p align="center">𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</p>
   <p align="center">
     <kbd><kbd><kbd><kbd><kbd><kbd><kbd><kbd><kbd><kbd>
-    <img src="https://github-readme-stats.vercel.app/api?username=castironclay&show_icons=true&count_private=true&theme=chartreuse-dark ">
+    <img src="https://github-readme-stats.vercel.app/api?username=nkuntz1934&show_icons=true&count_private=true&theme=chartreuse-dark">
   </p>
-  <img align="left" style="float:right; margin:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castironclay&theme=radical&layout=compact">
+  <img align="left" style="float:right; margin:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkuntz1934&theme=radical&layout=compact">
 </p>
 <br><br><br>
 
