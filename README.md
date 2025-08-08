@@ -34,5 +34,5 @@
 <br><br><br>
 
 <h1 align="center">
-  Welcome to my Projects!
+  Welcome!
 </h1>
