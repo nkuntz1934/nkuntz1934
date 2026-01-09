@@ -28,12 +28,14 @@
   Welcome!
 </h1>
 
-<p align="center">𝙽𝚒𝚌𝚔'𝚜 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚂𝚝𝚊𝚝𝚜</p>
 <p align="center">
-  <img src="profile-summary-card-output/radical/1-repos-per-language.svg">
-  <img src="profile-summary-card-output/radical/2-most-commit-language.svg">
+  <img src="profile-summary-card-output/nord_dark/0-profile-details.svg">
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkuntz1934&theme=high-contrast&hide_border=true&bg_color=000000">
+  <img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg">
+  <img src="profile-summary-card-output/nord_dark/2-most-commit-language.svg">
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/nord_dark/3-stats.svg">
+  <img src="profile-summary-card-output/nord_dark/4-productive-time.svg">
 </p>
