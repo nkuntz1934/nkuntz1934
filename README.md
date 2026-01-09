@@ -24,8 +24,16 @@
    <img src="https://img.shields.io/badge/-Cloudflare-000000?style=for-the-badge&logo=Cloudflare">
 </p>
 
-<br>
-
 <h1 align="center">
   Welcome!
 </h1>
+
+<p align="center">:bar_chart: 𝚂𝚝𝚊𝚝𝚜 :bar_chart:</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkuntz1934&layout=compact&theme=dark&hide_border=true&bg_color=000000">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkuntz1934&theme=high-contrast&hide_border=true&bg_color=000000">
+</p>
