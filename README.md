@@ -31,7 +31,7 @@
 <p align="center">:bar_chart: 𝚂𝚝𝚊𝚝𝚜 :bar_chart:</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkuntz1934&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkuntz1934&layout=pie&theme=radical&size_weight=0.5&count_weight=0.5">
 </p>
 
 <p align="center">𝙽𝚒𝚌𝚔'𝚜 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑</p>
