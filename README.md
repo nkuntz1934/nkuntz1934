@@ -30,8 +30,8 @@
 
 <p align="center">𝙽𝚒𝚌𝚔'𝚜 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚂𝚝𝚊𝚝𝚜</p>
 <p align="center">
-  <img src="profile-summary-card-output/1-repos-per-language.svg">
-  <img src="profile-summary-card-output/2-most-commit-language.svg">
+  <img src="profile-summary-card-output/radical/1-repos-per-language.svg">
+  <img src="profile-summary-card-output/radical/2-most-commit-language.svg">
 </p>
 
 <p align="center">𝙽𝚒𝚌𝚔'𝚜 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑</p>
