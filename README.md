@@ -24,14 +24,7 @@
    <img src="https://img.shields.io/badge/-Cloudflare-000000?style=for-the-badge&logo=Cloudflare">
 </p>
 
-<p align="center">𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nkuntz1934&show_icons=true&count_private=true&theme=chartreuse-dark">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkuntz1934&theme=radical&layout=compact">
-</p>
-<br><br><br>
+<br>
 
 <h1 align="center">
   Welcome!
