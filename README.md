@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</p>
-  <p align="center">
-    <kbd><kbd><kbd><kbd><kbd><kbd><kbd><kbd><kbd><kbd>
-    <img src="https://github-readme-stats.vercel.app/api?username=nkuntz1934&show_icons=true&count_private=true&theme=chartreuse-dark">
-  </p>
-  <img align="left" style="float:right; margin:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkuntz1934&theme=radical&layout=compact">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nkuntz1934&show_icons=true&count_private=true&theme=chartreuse-dark">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkuntz1934&theme=radical&layout=compact">
 </p>
 <br><br><br>
 
